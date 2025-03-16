@@ -10,6 +10,19 @@ If you're here, you're either **curious, data-driven, or both**—so dive in and
 
 ## 🚀 **Projects That Matter**  
 
+### **📊 Fraud Detection in E-Commerce**  
+📌 **GitHub Repository:** [Fraud Detection System](https://github.com/giantsai/fraud-detection-system)  
+📈 **Tech Stack:** Python | Machine Learning | Streamlit | Random Forest  
+
+Detecting fraudulent transactions is a major challenge in e-commerce. This project:  
+- Utilizes **synthetic data** to train a **Random Forest model** for fraud classification.  
+- Implements an **interactive Streamlit dashboard** for real-time fraud detection.  
+- Evaluates model performance using **Confusion Matrix, ROC Curve, and AUC score**.  
+
+🚀 **Check it out:** [Fraud Detection System](https://github.com/giantsai/fraud-detection-system)  
+
+---
+
 ### **📊 U.S. Healthcare Analysis**  
 📌 [GitHub Repository](https://github.com/giantsai/US-Healthcare-Analysis)  
 📈 **Tech Stack:** Power BI | SQL | DAX | Snowflake | Data Warehousing  

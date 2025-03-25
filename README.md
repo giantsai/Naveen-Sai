@@ -47,6 +47,12 @@ Detecting fraudulent transactions is a major challenge in e-commerce. This proje
 
 ---
 
+### **📊 Zomato Restaurants Analysis: Power BI Insights**  
+📌 **GitHub Repository:** [Zomato-Restaurants-Analysis-PowerBI](https://github.com/giantsai/Zomato-Restaurants-Analysis-PowerBI)  
+This project analyzes Zomato restaurant data across multiple countries, cities, and cuisines using Power BI. It demonstrates comprehensive data modeling, interactive dashboards, and actionable insights that drive operational efficiency and enhance customer satisfaction.
+
+---
+
 ### **📊 U.S. Healthcare Analysis**  
 📌 [GitHub Repository](https://github.com/giantsai/US-Healthcare-Analysis)  
 📈 **Tech Stack:** Power BI | SQL | DAX | Snowflake | Data Warehousing  
